@@ -66,3 +66,4 @@ https://www.figma.com/proto/7Fp4nPRBZDbXAmDdESPESE/Vybe-Music?node-id=10-4&t=Wwz
 ## 👩‍🎨 Designed by
 **Mahi Mogha**  
 UI/UX Designer
+Delhi Technological University 
